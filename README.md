@@ -1,2 +1,2 @@
-# OGFn Stuff for u Skidds!
+# OGFn Stuff 
 hi :)

@@ -1,2 +1,2 @@
-# random-ogfn-shit-i-found
+# OGFn Stuff for u Skidds!
 hi :)

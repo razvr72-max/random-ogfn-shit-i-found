@@ -1,6 +1,6 @@
 # OGFn Stuff 
 hi :)
 
-#Links
+Links
 
 - https://github.com/StellarOGFN/Launcher

@@ -1,4 +1,4 @@
-# OGFn Stuff 
+# links to popular launchers that projects are using (for skids)
 hi :)
 
 Links
